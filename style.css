@@ -1,0 +1,28 @@
+h1 {
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(214, 34, 34);
+    text-align: center;
+}
+
+h2 {
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+p {
+    text-align: left;
+}
+
+td, th {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 6px;
+}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgb(241, 192, 192);
+}
